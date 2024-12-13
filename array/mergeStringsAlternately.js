@@ -61,3 +61,5 @@ var mergeAlternately = function(word1, word2) {
 }
 
 //Runtime 42ms Beats 97.70%
+// time complexity: O(m+n)
+// space complexity: O(m+n)
